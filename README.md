@@ -1,4 +1,4 @@
-[![MasterHead](https://i1.wp.com/sthua.edu.sg/wp-content/uploads/2017/11/swift.jpg?fit=895%2C347&ssl=1)
+![MasterHead](https://i1.wp.com/sthua.edu.sg/wp-content/uploads/2017/11/swift.jpg?fit=895%2C347&ssl=1)
 <h1 align="center">Hi 👋, I'm Samet Korkmaz</h1>
 <h3 align="center">Gazi Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Kariyerimi IOS Development üzerine ilerletiyorum.</h3>
 
