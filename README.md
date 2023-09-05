@@ -1,6 +1,6 @@
 ![MasterHead](https://i1.wp.com/sthua.edu.sg/wp-content/uploads/2017/11/swift.jpg?fit=895%2C347&ssl=1)
 <h1 align="center">Hi 👋, I'm Samet Korkmaz</h1>
-<h3 align="center">IOS developer (21y) from Turkey</h3>
+<h3 align="center">IOS developer (21y) from Istanbul,Turkey</h3>
 
 - 🌱 I’m currently learning **Swift and IOS Development**
 
