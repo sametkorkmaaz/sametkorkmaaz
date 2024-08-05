@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Samet Korkmaz</h1>
 <h3 align="center">iOS developer (22y) from Istanbul,Turkey</h3>
 
-- 🌱 I’m currently learning **Swift and IOS Development**
+- 🌱 I’m currently learning **Swift and iOS Development**
 
 - 📝 I regularly write articles on [https://medium.com/@samet.korkmazz](https://medium.com/@samet.korkmazz)
 
