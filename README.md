@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **smt.krkmz.2002@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/samet-korkmaz]([www.linkedin.com/in/samet-korkmaz](https://www.linkedin.com/in/samet-korkmaz-4077bb252/))
+- 📄 Know about my experiences [www.linkedin.com/in/samet-korkmaz]([https://www.linkedin.com/in/samet-korkmaz-4077bb252/])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
