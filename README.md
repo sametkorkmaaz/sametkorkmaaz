@@ -28,6 +28,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sametkorkmaaz&show_icons=true&locale=en&layout=compact" alt="sametkorkmaaz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sametkorkmaaz&show_icons=true&locale=en" alt="sametkorkmaaz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sametkorkmaaz&" alt="sametkorkmaaz" /></p>
