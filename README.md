@@ -28,3 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sametkorkmaaz&show_icons=true&locale=en&layout=compact" alt="sametkorkmaaz" /></p>
 
+![snake gif](https://github.com/sametkorkmaaz/sametkorkmaaz/blob/output/github-contribution-grid-snake.gif)
