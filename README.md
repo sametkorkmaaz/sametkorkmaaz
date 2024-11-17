@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Swift or iOS**
 
-- 📫 How to reach me **smt.krkmz.2002@gmail.com**
+- 📫 How to reach me **sametkorkmaz184@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/samet-korkmaz-4077bb252/](https://www.linkedin.com/in/samet-korkmaz-4077bb252/)
 
